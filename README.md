@@ -1,6 +1,6 @@
 ### Hi, I'm Apu 👋
 #### Backend Developer
-![Backend Developer](https://github.com/ApuSardar297/ApuSardar297/blob/main/README.md)
+![Backend Developer](https://github.com/ApuSardar297/ApuSardar297/blob/main/Apu%20sardar.png)
 
 I'm a Backend Developer and software Quality Assurance Engineer. Some technologies I enjoy working with includes Python, JavaScript, C, C++, ReactJS, HTML, CSS.
 
